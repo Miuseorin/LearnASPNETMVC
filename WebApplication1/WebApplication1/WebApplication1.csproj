@@ -154,6 +154,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
     <Content Include="Views\Calculator\Index.cshtml" />
+    <Content Include="Views\Home\Template.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
